@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Francisco José Quesada Real
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Francisco José
+last_name: Quesada Real
 
 # Status emoji
 status:
@@ -14,34 +14,42 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Jaén
+    url: www.ujaen.es
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Distributed Ledger Technologies, Group Decision Making, Ontology Matching, IoT, and Emergency Response.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Distributed Ledger Technologies
+  - Group Decision Making
+  - IoT
+  - Ontology Matching
+  - Emergency Response
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Knowledge Representation
+      institution: University of Edinburgh
+      year: 2021
+    - course: PhD in ICT
+      institution: University of Jaén
+      year: 2019
+    - course: MEng in Education
+      institution: University of Jaén
+      year: 2019
+    - course: MEng in Computer Science
+      institution: University of Jaén
+      year: 2013
+    - course: BSc in Computer Science
+      institution: University of Jaén
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,35 +58,35 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:fqreal@ujaen.es"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/fjquesadaR
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=ComYwQkAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/fjquesada
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/fjquesada/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Francisco José Quesada Real is an Assistant Lecturer at the University of Jaén. He is member of the ["Intelligent Systems Based on Fuzzy Decision Analysis" (Sinbad2)](https://sinbad2.ujaen.es/) Research Group. His current research interest includes distributed ledger technologies, group decision making, ontology matching, IoT, and emergency response.
 {style="text-align: justify;"}
