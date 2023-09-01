@@ -1,23 +1,24 @@
 ---
-title: "Phonendo: A Platform for Publishing Wearable Data on Distributed Ledger Technologies"
+title: "Deep Learning Methods applied to Digital Elevation Models: State of the Art"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Francisco Moya
+  - Juan J. Ruiz Lendínez
+  - Francisco J. Ariza López
+  - Juan F. Reinoso Gordo
+  - Manuel A. Ureña-Cámara
   - admin
-  - Luis Martínez
-  - Fco Javier Estrella
 
 # Author notes (optional)
 #author_notes:
 
-date: "2023-08-01T00:00:00Z"
-doi: "10.1007/s11276-023-03458-7"
+date: "2023-09-01T00:00:00Z"
+doi: "10.1080/10106049.2023.2252389"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-08-01T00:00:00Z"
+publishDate: "2023-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,12 +27,12 @@ publishDate: "2023-08-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Wireless Networks
-publication_short: WINE
+publication: Geocarto International
+#publication_short: WINE
 
-abstract: "Nowadays, IoT devices, especially wearable devices, are commonly integrated into modern intelligent healthcare software. These devices enable medical practitioners to monitor pervasively patients' parameters outside the clinical environment. However, the ease of manipulating wearable devices and their data streams raises concerns regarding patient privacy and data trust. DLT offer solutions to enhance resistance against information manipulation and eliminate single points of failure. By leaveraging DLT, wearable-based solutions can be developed with a wider range of capabilities. This paper carries out an analysis of shortcomings, limitations, potential applications and needs in the medical domain, to introduce Phonendo 1.0, a DLT-IoT-based platform designed to capture data streams from wearable devices and publishing them on a DLTI. The architecture and its difference services are justified based on the identified needs and challenges in the medical domain."
+abstract: "Deep Learning (DL) has a wide variety of applications in various thematic domains, including spatial information. Although with limitations, it is also starting to be considered in operations related to Digital Elevation Models (DEMs). This study aims to review the methods of DL applied in the field of altimetric spatial information in general, and DEMs in particular. Void Filling (VF), Super-Resolution (SR), landform classification and hydrography extraction are just some of the operations where traditional methods are being replaced by DL methods. Our review concludes that although these methods have great potential, there are aspects that need to be improved. More appropriate terrain information or algorithm parameterisation are some of the challenges that this methodology still needs to face."
 
-tags: [IoT, DLT]
+tags: [Deep Learning, DEMs]
 
 # Display this page in the Featured widget?
 featured: false
@@ -42,7 +43,7 @@ featured: false
 #     url: http://example.org
 
 url_pdf: ""
-url_code: "https://github.com/sinbad2-ujaen/phonendo"
+url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""

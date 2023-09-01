@@ -88,5 +88,5 @@ email: ""
 highlight_name: true
 ---
 
-Francisco José Quesada Real is an Assistant Lecturer at the University of Jaén. He is member of the ["Intelligent Systems Based on Fuzzy Decision Analysis" (Sinbad2)](https://sinbad2.ujaen.es/) Research Group. His current research interest includes distributed ledger technologies, group decision making, ontology matching, IoT, and emergency response.
+**Francisco José Quesada Real** received the B.S. and M.S. degrees in Computer Science, a M.S. degree in Education and the Ph.D. degree (specialised in ICT) from the ["University of Jaén"](www.ujaen.es). In 2015, he was a Marie Curie Early-Stage Researcher at the ["University of Edinburgh"](www.ued.co.uk), obtaining the Ph.D. degree (specialised in Artificial Intelligence). He has been an Assistant Lecturer since 2020, with the ["University of Cádiz"](www.uca.es) (from 2020 to 2022) and the ["University of Jaén"](www.ujaen.es) (from 2022). He is member of the ["Intelligent Systems Based on Fuzzy Decision Analysis" (Sinbad2)](https://sinbad2.ujaen.es/) Research Group. His current research interest includes Distributed Ledger Technologies, Group Decision Making, Ontology Matching, IoT, and Emergency Response.
 {style="text-align: justify;"}
